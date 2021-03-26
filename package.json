@@ -1,0 +1,15 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "repository": "git@github.com:yarikpo/webpack-learn.git",
+  "author": "yarikpo <yaroslavpopovich04@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.5.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
